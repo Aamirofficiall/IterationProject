@@ -1,6 +1,6 @@
 # Iteration App
 
-This app allows the users to create a new Iteration. Each Iteration has a group of Questions and multiple choice answers. The user is able to give a name to each iteration. After the user finishes the Iteration, all the results will be in the "Interations Overview" button.
+This app allows the user to create a new Iteration. Each Iteration has a group of Questions and multiple choice answers. The user is able to give a name to each iteration. After the user finishes the Iteration, all the results will be in the "Interations Overview" button.
 
 This is a project created Django Rest Framework backend and a React frontend.
 
