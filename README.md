@@ -16,20 +16,32 @@ This is a project created Django Rest Framework backend and a React frontend.
 
 ## How to install virtual environment (django)
 In your Terminal
+<br>
 1- Run "python3 -m pip install --user virtualenv (for Mac)"
+<br>
 2- Run "python3 -m venv env" (for Mac)
-3- Run "source env/bin/activate" 
+<br>
+3- Run "source env/bin/activate"
+<br>
 
 For Windows you can check the commands in the following link
+<br>
 https://packaging.python.org/guides/installing-using-pip-and-virtual-environments/
+<br>
 
 ##To Run Your App
 In your Terminal
+<br>
 - Run "python manage.py runserver"
+<br>
 
 ## API-END points
 
-- api/q : to see the questions
-- api/i : to see te iteratons
+To check the API End Points in the browser nacigate to If you navigate to http://127.0.0.1:8000/ and to see the following End point you need to add :
+<br>
+1) /api/q  to see the questions
+<br>
+2) /api/i  to see te iteratons
+<br>
 
 
