@@ -37,7 +37,7 @@ From your Terminal run the folowing comand:
 
 ## API-END points
 
-To check the API End Points in the browser nacigate to If you navigate to http://127.0.0.1:8000/ and to see the following End point you need to add :
+To check the API End Points in the browser navigate to http://127.0.0.1:8000/ and to see the End points you need to add :
 <br>
 1- /api/q  to see the questions
 <br>
