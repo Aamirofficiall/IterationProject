@@ -39,11 +39,9 @@ From your Terminal run the folowing command:
 
 ## API-END points
 
-To check the API End Points in the browser navigate to http://127.0.0.1:8000/ and to see the End points you need to add :
+1. /api/q  --> to see the questions
 <br>
-1. /api/q  to see the questions
-<br>
-2. /api/i  to see te iteratons
+2. /api/i  --> to see te iteratons
 <br>
 Note: There is a maximum of three questions per Iteration.
 
