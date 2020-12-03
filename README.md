@@ -5,8 +5,11 @@
 1- Clone git repositery "git@github.com:deyi83/IterationProject.git"
 
 Now, in yoru terminal
+<br>
 2- Run "pip install -r requirements.txt"
+<br>
 3- Run "python manage.py migrate"
+<br>
 4- Run "python manage.py runserver"
 
 ## How to install virtual environment
