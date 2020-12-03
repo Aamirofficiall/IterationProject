@@ -29,8 +29,8 @@ For Windows you can check the commands in the following link
 https://packaging.python.org/guides/installing-using-pip-and-virtual-environments/
 <br>
 
-##To Run Your App
-In your Terminal
+## To Run Your App
+From your Terminal run the folowing comand:
 <br>
 - Run "python manage.py runserver"
 <br>
@@ -39,9 +39,9 @@ In your Terminal
 
 To check the API End Points in the browser nacigate to If you navigate to http://127.0.0.1:8000/ and to see the following End point you need to add :
 <br>
-1) /api/q  to see the questions
+1- /api/q  to see the questions
 <br>
-2) /api/i  to see te iteratons
+2- /api/i  to see te iteratons
 <br>
 
 
