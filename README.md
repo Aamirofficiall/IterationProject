@@ -2,7 +2,7 @@
 
 ## How to install
 
-1- Clone git repositery "git@github.com:deyi83/IterationProject.git"
+1- Clone git repository "git@github.com:deyi83/IterationProject.git"
 
 Now, in yoru terminal
 <br>
