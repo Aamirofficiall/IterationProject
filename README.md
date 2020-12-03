@@ -3,8 +3,6 @@
 ## How to install
 
 1- Clone git repository "git@github.com:deyi83/IterationProject.git"
-
-Now, in yoru terminal
 <br>
 2- Run "pip install -r requirements.txt"
 <br>
